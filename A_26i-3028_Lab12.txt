@@ -1,0 +1,8 @@
+Student Name: Muhammad Jawad Ahmad
+Roll Number: 26i-3028
+Section: SE-A
+
+GitHub Repository Link: ADD-YOUR-ACTUAL-REPOSITORY-URL
+Live Website Link: ADD-YOUR-ACTUAL-GITHUB-PAGES-URL
+
+Replace both placeholders with the real links after publishing and deploying.
