@@ -1,8 +1,9 @@
-Student Name: Muhammad Jawad Ahmad
+Name: Muhammad Jawad Ahmad
 Roll Number: 26i-3028
-Section: SE-A
+Section: A
 
-GitHub Repository Link: ADD-YOUR-ACTUAL-REPOSITORY-URL
-Live Website Link: ADD-YOUR-ACTUAL-GITHUB-PAGES-URL
+GitHub Repository Link:
+https://github.com/i263028-a11y/invitation-of-spring-festival
 
-Replace both placeholders with the real links after publishing and deploying.
+Live Website Link:
+https://i263028-a11y.github.io/invitation-of-spring-festival/index.html
