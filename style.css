@@ -106,3 +106,6 @@ footer p { margin: 0; color: #e7cbd4; font-size: 11px; }
   .full { grid-column: auto; }
   footer { align-items: flex-start; flex-direction: column; }
 }
+.button {
+    letter-spacing: 1px;
+}
